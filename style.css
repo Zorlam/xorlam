@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1 {
+    color:#333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+h2 {
+    color: #444;
+    margin-top: 30px;
+    font-size: 1.8rem;
+
+}
+p {
+    color: #555;
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+ol {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+ol li {
+    margin-bottom: 15px;
+}
+video {
+    display: block;
+    margin: 30px auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+p:last-child {
+    text-align: center;
+    margin-top: 40px;
+    font-style: italic;
+}
+h2 + p {
+background-color: #e9e9e9;
+padding: 15px;
+border-left: 5px solid #0066cc;
+margin-bottom: 20px;
+font-size: 1.1rem;
+}
+.summary-list li {
+    margin-bottom: 8px;
+    color: #333;
+}
+.ethical-hacking {
+background-color:lightblue;
+}
